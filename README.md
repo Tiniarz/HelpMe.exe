@@ -5,7 +5,7 @@ This malware is a high-intensity Graphical Device Interface (GDI) visual payload
 ​⚖️ Liability & Disclaimer
 
 
-​The creator of this project is NOT responsible for any damage caused by this software. * This tool is provided "as-is" for educational and research purposes only.
+​The creator of this malware is NOT responsible for any damage caused by this software. * This tool is provided "as-is" for educational and research purposes only.
 
 
 
