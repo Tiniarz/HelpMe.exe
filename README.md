@@ -1,2 +1,2 @@
 # HelpMe.exe
-Uncannt malware made with C++
+Uncanny malware made with C++
